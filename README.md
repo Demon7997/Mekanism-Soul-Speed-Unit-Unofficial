@@ -7,7 +7,7 @@ This is an **unofficial** module for **Mekanism**, designed to bring Nether-base
 
 ### Modules
 **Common Modules:**
-* **Soul Speed Unit**: Harnesses the power of the Nether to detect the Soul Speed enchantment and apply a speed boost to the MekaSuit when walking on Soul Sand.
+* **Soul Speed Unit**: Harnesses the power of the Nether to detect the Soul Speed enchantment and apply a speed boost to the MekaSuit when walking on Soul Sand and Soul Soil.
 
 ## Additional Features
 * **Automatic Detection**: Seamlessly integrates with the Nether enchantment system.
