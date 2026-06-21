@@ -1,0 +1,8 @@
+# items
+item.module_soul_surfer_unit.name=Soul Surfer Unit
+
+# description
+description.mekanism.soul_speed_unit=Allows the user to surf effortlessly across the top of souls. Install multiple for a greater speed.
+
+# names of installed modules
+module.mekanism.soul_speed_unit=Soul Surfer Unit

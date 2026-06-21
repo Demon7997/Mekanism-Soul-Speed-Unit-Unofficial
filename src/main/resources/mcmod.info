@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "mekasoulspeed",
+    "name": "Mekanism Soul Speed Unit",
+    "description": "A Mekanism upgrade unit that allows you to quickly run over souls.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["Wolf7997", "Demon7997"],
+    "credits": "Based on Mekanism API.",
+    "requiredMods": ["forge", "mekanism"],
+    "dependencies": ["mekanism", "unseens-nether-backport"],
+    "useDependencyInformation": true
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ACA",
+    "AMA",
+    "PEP"
+  ],
+  "key": {
+    "M": {
+      "item": "mekanism:modulebase",
+      "data": 0
+    },
+    "P": {
+      "ore": "PoloniumPellet",
+      "type": "forge:ore_dict"
+    },
+    "E": {
+      "item": "mekanism:freerunners"
+    },
+    "A": {
+      "ore": "alloyElite",
+      "type": "forge:ore_dict"
+    },
+    "C": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "mekasoulspeed:module_soul_surfer_unit",
+    "count": 1
+  }
+}
